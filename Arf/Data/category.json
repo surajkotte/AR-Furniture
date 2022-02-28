@@ -1,0 +1,50 @@
+[
+  {
+    "id" : 1,
+    "name" : "Class-1",
+    "image" : "d1img",
+    "price" : "$1099"
+  },
+  {
+    "id" : 2,
+    "name" : "Class-2",
+    "image" : "d2img",
+    "price" : "$1199"
+  },
+  {
+    "id" : 3,
+    "name" : "Class-3",
+    "image" : "d3img",
+    "price" : "$1299"
+  },
+  {
+    "id" : 4,
+    "name" : "Class-4",
+    "image" : "d4img",
+    "price" : "$999"
+  },
+  {
+    "id" : 5,
+    "name" : "Class-5",
+    "image" : "d5img",
+    "price" : "$899"
+  },
+  {
+    "id" : 6,
+    "name" : "Class-6",
+    "image" : "d6img",
+    "price" : "$2099"
+  },
+  {
+    "id" : 7,
+    "name" : "Class-7",
+    "image" : "d7img",
+    "price" : "$1999"
+  },
+  {
+    "id" : 8,
+    "name" : "Class-8",
+    "image" : "d8img",
+    "price" : "$1599" 
+  }
+]
